@@ -1,0 +1,14 @@
+<?php 
+
+
+$a = 227;
+$b = { a:50, b:40 };
+
+echo $a."\n";
+echo $b.a;
+
+echo " Hello, wolrd! ";
+# Here is the comment section!
+
+?>
+
